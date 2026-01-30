@@ -1,3 +1,5 @@
+# 🌱 Smart Irrigation System using IoT and Arduino
+
 # 📌 Project Overview
 
 This project implements an automated smart irrigation system that monitors soil moisture levels in real time and controls a water pump accordingly. The system helps reduce water wastage and ensures optimal watering of plants using sensor-based automation.
